@@ -22,3 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 # logs
 *.log
+
+# Archivos de entorno
+.env # <-- Asegúrate de que esta línea exista para el backend
+frontend/.env.production # <-- Esto es para el frontend en producción, también es bueno ignorarlo si tiene secretos.
