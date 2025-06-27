@@ -1,0 +1,10 @@
+/* frontend/src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globales para la fuente */
+body {
+  font-family: "Inter", sans-serif; /* Usaremos 'Inter' como la fuente principal */
+}
