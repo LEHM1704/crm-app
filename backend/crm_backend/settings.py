@@ -120,6 +120,7 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", # Puerto por defecto de React en desarrollo
     "http://127.0.0.1:5173",
+    "https://crm-app-frontend-4kp0.onrender.com/"
     # Agrega aquí el dominio de tu frontend de React en Render cuando lo despliegues
     # Ej: "https://tu-frontend-react.onrender.com",
 ]
